@@ -1,0 +1,269 @@
+@font-face {
+  font-family: 'ninzio';
+  src:url('../fonts/ninzio.eot');
+  src:  url('../fonts/ninzio.eot?6i4ggs#iefix') format('embedded-opentype'),
+    url('../fonts/ninzio.ttf?6i4ggs') format('truetype'),
+    url('../fonts/ninzio.woff?6i4ggs') format('woff'),
+    url('../fonts/ninzio.svg?6i4ggs#ninzio') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="nz-"], [class*=" nz-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ninzio' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nz-shop1:before {
+  content: "\e900";
+}
+.nz-infoinfo:before {
+  content: "\e901";
+}
+.nz-sharing:before {
+  content: "\e902";
+}
+.nz-list:before {
+  content: "\e903";
+}
+.nz-plus1:before {
+  content: "\e904";
+}
+.nz-arrow1:before {
+  content: "\e905";
+}
+.nz-checked:before {
+  content: "\e906";
+}
+.nz-close1:before {
+  content: "\e907";
+}
+.nz-close2:before {
+  content: "\e908";
+}
+.nz-arrow2:before {
+  content: "\e909";
+}
+.nz-arrow3:before {
+  content: "\e90a";
+}
+.nz-arrow4:before {
+  content: "\e90b";
+}
+.nz-arrow5:before {
+  content: "\e90c";
+}
+.nz-home1:before {
+  content: "\e90d";
+}
+.nz-quote1:before {
+  content: "\e90e";
+}
+.nz-play1:before {
+  content: "\e90f";
+}
+.nz-minus1:before {
+  content: "\e910";
+}
+.nz-minus2:before {
+  content: "\e911";
+}
+.nz-arrow6:before {
+  content: "\e912";
+}
+.nz-play2:before {
+  content: "\e913";
+}
+.nz-play3:before {
+  content: "\e914";
+}
+.nz-play4:before {
+  content: "\e915";
+}
+.nz-plus2:before {
+  content: "\e916";
+}
+.nz-quote2:before {
+  content: "\e917";
+}
+.nz-arrow7:before {
+  content: "\e918";
+}
+.nz-search1:before {
+  content: "\e919";
+}
+.nz-shop2:before {
+  content: "\e91a";
+}
+.nz-arrow8:before {
+  content: "\e91b";
+}
+.nz-arrow9:before {
+  content: "\e91c";
+}
+.nz-home2:before {
+  content: "\e91d";
+}
+.nz-pencil:before {
+  content: "\e91e";
+}
+.nz-push-pin:before {
+  content: "\e91f";
+}
+.nz-portfolio-menu:before {
+  content: "\e920";
+}
+.nz-play5:before {
+  content: "\e921";
+}
+.nz-envelope:before {
+  content: "\e922";
+}
+.nz-star:before {
+  content: "\e923";
+}
+.nz-heart:before {
+  content: "\e924";
+}
+.nz-expand:before {
+  content: "\e925";
+}
+.nz-emain:before {
+  content: "\e926";
+}
+.nz-phone:before {
+  content: "\e927";
+}
+.nz-arrow10:before {
+  content: "\e928";
+}
+.nz-arrow11:before {
+  content: "\e929";
+}
+.nz-arrow12:before {
+  content: "\e92a";
+}
+.nz-arrow13:before {
+  content: "\e92b";
+}
+.nz-flickr:before {
+  content: "\e92c";
+}
+.nz-dribbble:before {
+  content: "\e92d";
+}
+.nz-behance:before {
+  content: "\e92e";
+}
+.nz-android:before {
+  content: "\e92f";
+}
+.nz-apple:before {
+  content: "\e930";
+}
+.nz-skype:before {
+  content: "\e931";
+}
+.nz-instagram:before {
+  content: "\e932";
+}
+.nz-pinterest:before {
+  content: "\e933";
+}
+.nz-linkedin:before {
+  content: "\e934";
+}
+.nz-vimeo:before {
+  content: "\e935";
+}
+.nz-youtube:before {
+  content: "\e936";
+}
+.nz-google-plus:before {
+  content: "\e937";
+}
+.nz-twitter:before {
+  content: "\e938";
+}
+.nz-facebook:before {
+  content: "\e939";
+}
+.nz-black-envelope:before {
+  content: "\e93a";
+}
+.nz-arrow14:before {
+  content: "\e93b";
+}
+.nz-arrow15:before {
+  content: "\e93c";
+}
+.nz-arrow16:before {
+  content: "\e93d";
+}
+.nz-arrow17:before {
+  content: "\e93e";
+}
+.nz-arrow18:before {
+  content: "\e93f";
+}
+.nz-arrow19:before {
+  content: "\e940";
+}
+.nz-heart-outline:before {
+  content: "\e942";
+}
+.nz-clock:before {
+  content: "\e943";
+}
+.nz-asside:before {
+  content: "\e944";
+}
+.nz-image-gallery:before {
+  content: "\e945";
+}
+.nz-photo:before {
+  content: "\e946";
+}
+.nz-link2:before {
+  content: "\e947";
+}
+.nz-audio:before {
+  content: "\e948";
+}
+.nz-info:before {
+  content: "\e949";
+}
+.nz-status:before {
+  content: "\e94a";
+}
+.nz-video:before {
+  content: "\e94b";
+}
+.nz-eye:before {
+  content: "\e94c";
+}
+.nz-user1:before {
+  content: "\e94d";
+}
+.nz-chat:before {
+  content: "\e94f";
+}
+.nz-user:before {
+  content: "\e956";
+}
+.nz-foreign:before {
+  content: "\e96e";
+}
+.nz-link:before {
+  content: "\e96f";
+}
